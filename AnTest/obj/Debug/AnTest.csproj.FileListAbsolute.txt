@@ -1,0 +1,10 @@
+C:\Users\maksi\source\repos\AnTest\AnTest\bin\Debug\AnTest.exe.config
+C:\Users\maksi\source\repos\AnTest\AnTest\bin\Debug\AnTest.exe
+C:\Users\maksi\source\repos\AnTest\AnTest\bin\Debug\AnTest.pdb
+C:\Users\maksi\source\repos\AnTest\AnTest\obj\Debug\AnTest.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\AnTest\AnTest\obj\Debug\AnTest.Properties.Resources.resources
+C:\Users\maksi\source\repos\AnTest\AnTest\obj\Debug\AnTest.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\AnTest\AnTest\obj\Debug\AnTest.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\AnTest\AnTest\obj\Debug\AnTest.exe
+C:\Users\maksi\source\repos\AnTest\AnTest\obj\Debug\AnTest.pdb
+C:\Users\maksi\source\repos\AnTest\AnTest\obj\Debug\AnTest.MainForm.resources
